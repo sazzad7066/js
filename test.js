@@ -4,6 +4,7 @@
 console.log("hello");
 
 console.log('hellow world');
+ //object
 let car = {
     name :"fiat",
     weight :"600kg",
