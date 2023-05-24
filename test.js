@@ -11,3 +11,6 @@ let car = {
     color : "white",
     model : "fial 530a",
 }
+let car = {
+    name :"800kg",
+}
