@@ -12,4 +12,5 @@ let car = {
     model : "fial 530a",
 }
 //Interpolation
-let sentence = `I love {country} and it  is a big counatry`;
+let sentence = `I love {country} and it  is a big counatry';
+//number methods
