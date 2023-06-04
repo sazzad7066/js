@@ -13,4 +13,4 @@ let car = {
 }
 //Interpolation
 let sentence = `I love {country} and it  is a big counatry';
-//number methods
+console.log(typeof cars);
